@@ -1,7 +1,7 @@
 <h1 align="center">Привет, меня зовут Людмила!</h1>
 <h3 align="center">Я учусь на тестировщика</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:@milk2806 </h3>
 <p align="left">
 </p>
 
